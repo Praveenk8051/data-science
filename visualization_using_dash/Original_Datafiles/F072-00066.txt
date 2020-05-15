@@ -1,0 +1,7 @@
+1 BAD SIN
+   Response BAD
+   Polarity GOOD
+   RUB+BUZZ GOOD
+   THD GOOD
+08.10.2018 14.01.18
+UNIT N. F072-00066 BAD
